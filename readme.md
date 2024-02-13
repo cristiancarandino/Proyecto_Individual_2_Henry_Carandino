@@ -37,8 +37,8 @@ Si encuentras útil este análisis, no dudes en darle "★ Star" a nuestro repos
 
 ## Información Adicional y Contacto
 Para más detalles o preguntas, no dudes en ponerte en contacto con nosotros.
-- Email: [tucorreo@example.com](mailto:carandino.dev@gmail.com)
-- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/carandinocristianagustin/)
+- Email: [carandino.dev@gmail.com](mailto:carandino.dev@gmail.com)
+- LinkedIn: [Cristian Carandino](https://www.linkedin.com/in/carandinocristianagustin/)
 
 ¡Gracias por formar parte de nuestro proyecto!
 

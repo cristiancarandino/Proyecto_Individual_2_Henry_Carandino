@@ -1,5 +1,7 @@
 # Proyecto Individual Nº2
 
+![Imagen de Portada](proyecto2_github_henry.jpg)
+
 ## Descripción
 En este proyecto, realizamos un exhaustivo análisis de datos sobre siniestros viales y sus víctimas en la Ciudad de Buenos Aires durante el periodo 2016-2021. El objetivo es proporcionar información clave que permita a las autoridades locales tomar medidas efectivas para reducir las víctimas fatales en siniestros viales.
 

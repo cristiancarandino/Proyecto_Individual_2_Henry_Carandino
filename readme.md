@@ -1,24 +1,47 @@
-# PROYECTO INDIVIDUAL Nº2
+# Proyecto Individual Nº2
 
 ## Descripción
-Este proyecto aborda el análisis de datos sobre homicidios en siniestros viales ocurridos en la Ciudad de Buenos Aires durante el periodo 2016-2021. Se utiliza un dataset proporcionado por Buenos Aires Data, que se encuentra en formato xlsx y contiene información sobre hechos y víctimas en siniestros viales. Además, se incluyen diccionarios de datos para mayor comprensión.
+En este proyecto, realizamos un exhaustivo análisis de datos sobre siniestros viales y sus víctimas en la Ciudad de Buenos Aires durante el periodo 2016-2021. El objetivo es proporcionar información clave que permita a las autoridades locales tomar medidas efectivas para reducir las víctimas fatales en siniestros viales.
 
 ## Preprocesamiento de Datos
-El notebook asociado (`proyecto_individual_2.ipynb`) realiza el preprocesamiento de datos, incluyendo la limpieza de nulos, ajuste de tipos de datos y la unificación de datasets de hechos y víctimas. El resultado se guarda en un nuevo archivo xlsx ubicado en la carpeta 'Data'.
+Para garantizar la calidad de nuestro análisis, llevamos a cabo un riguroso proceso de limpieza de datos. Se exploraron y corrigieron formatos, se gestionaron valores nulos y se unificaron los conjuntos de datos relacionados con hechos y víctimas. El resultado final se guardó en un archivo en formato xlsx para facilitar la accesibilidad.
 
-## KPIs
-Se generaron tres KPIs:
-1. **Tasa de Homicidios:** Reducción del 10% en la tasa de homicidios en siniestros viales.
-2. **Mortalidad de Motociclistas:** Reducción del 7% en la tasa de mortalidad de motociclistas.
-3. **Víctimas por Comuna:** Reducción de víctimas en la comuna con mayor incidencia.
+## KPIs (Indicadores Clave de Desempeño)
+Hemos desarrollado tres KPIs fundamentales:
+1. **Tasa de Homicidios:** Objetivo de reducir la tasa de homicidios en siniestros viales en un 10%.
+2. **Mortalidad de Motociclistas:** Meta de disminuir la tasa de mortalidad de motociclistas en siniestros viales en un 7%.
+3. **Reducción de Víctimas en Comuna Destacada:** Enfocado en disminuir las víctimas en la comuna con mayor incidencia.
 
-Los resultados de estos KPIs se almacenan en archivos xlsx en la carpeta 'Data'.
+Los resultados de estos KPIs se presentan de manera clara y detallada en nuestro Dashboard interactivo.
 
 ## Dashboard
-Se creó un dashboard interactivo utilizando Power BI. Este dashboard consta de tres páginas que ofrecen visualizaciones detalladas sobre incidentes, evolución a lo largo de los años, participantes y estadísticas de víctimas. Además, presenta los resultados de los KPIs generados.
+Utilizando Power BI, hemos creado un Dashboard interactivo que consta de tres páginas informativas. Este incluye un desglose por año de los incidentes por comuna, su evolución a lo largo del tiempo, participantes y más. Además, proporcionamos información detallada sobre las víctimas, género, roles, y los resultados de los KPIs.
 
-## Repositorio
-Este repositorio incluye:
-- `proyecto_individual_2.ipynb`: Notebook con el análisis de datos.
-- Carpeta `Data`: Contiene el dataset de Hechos_Victimas y los resultados de los 3 KPIs en formato xlsx.
-- `dashboard.pbix`: Documento de Power BI con el dashboard interactivo.
+## Estructura del Repositorio
+- **Proyecto_Individual_N2.ipynb:** Notebook con el análisis de datos.
+- **Data/:** Carpeta que contiene el dataset consolidado y los resultados de los KPIs en formato xlsx.
+- **Dashboard.pbix:** Documento de Power BI con el Dashboard interactivo.
+
+## Instrucciones de Uso
+1. Abre el notebook `Proyecto_Individual_N2.ipynb` para revisar el análisis de datos.
+2. La carpeta `Data/` contiene archivos xlsx con el dataset consolidado y los resultados de los KPIs.
+3. Explora el Dashboard interactivo utilizando el archivo `Dashboard.pbix` con Power BI.
+
+## Agradecimientos
+
+Queremos expresar nuestro agradecimiento a [Henry](https://www.soyhenry.com/) por asignarnos este emocionante Proyecto Individual como parte de nuestra práctica. Esta experiencia ha sido fundamental para aplicar y consolidar los conocimientos adquiridos durante la carrera. Apreciamos la oportunidad de enfrentarnos a un desafío real y desarrollar habilidades prácticas en el ámbito de la ciencia de datos.
+
+Agradecemos también a la comunidad de Henry por su constante apoyo y colaboración.
+
+Si encuentras útil este análisis, no dudes en darle "★ Star" a nuestro repositorio.
+
+## Información Adicional y Contacto
+Para más detalles o preguntas, no dudes en ponerte en contacto con nosotros.
+- Email: [tucorreo@example.com](mailto:carandino.dev@gmail.com)
+- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/carandinocristianagustin/)
+
+¡Gracias por formar parte de nuestro proyecto!
+
+--- 
+
+*CRISTIAN CARANDINO - 14/2/24*
